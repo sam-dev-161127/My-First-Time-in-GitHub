@@ -144,6 +144,6 @@ Every project, error, and challenge teaches something valuable.
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/Sam-Dev-1627
+- GitHub: https://github.com/sam-dev-1627
 
 ⭐ *"Small steps every day lead to big achievements."*
