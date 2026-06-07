@@ -146,4 +146,6 @@ Every project, error, and challenge teaches something valuable.
 
 - GitHub: https://github.com/sam-dev-1627
 
+You can support me by staring 💫 repo
+
 ⭐ *"Small steps every day lead to big achievements."*
