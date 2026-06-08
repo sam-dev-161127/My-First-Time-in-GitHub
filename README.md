@@ -2,7 +2,7 @@
 
 # Hi, I'm Sameer Patra 👋
 
-🚀 Student | Python Learner | Future Engineer | Robotics Enthusiast  
+🚀 Student | Python Learner | Future Engineer | Robotics Enthusiast | Ubuntu & Kali User|
 
 I am a passionate Class 9 student who loves exploring technology, programming, and innovative ideas.  
 My main goal is to become an engineer and build intelligent robotic systems that can solve real-world problems and improve lives.
